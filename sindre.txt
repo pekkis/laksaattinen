@@ -1,0 +1,51 @@
+[Orchestra Intro]
+
+[Verse]
+Sindre Sorhus koodaa yössä, pienet moduulit mielessään,
+Nodessa hän laajentaa, lego-palikoilla rakentaa.
+Hän jätti toimistotyönsä, Thaimaahan matkasi,
+Avoimen lähdekoodin maailmaan, uusia teitä aukaisi.
+
+[Verse]
+ES-moduulit mielessään, hän paketit muokkaa,
+CommonJS jää taakse, uudet tuulet tuokaa.
+Ekosysteemin kehittäjä, yli tuhat pakettia,
+Yhteisö tukee, matka jatkuu, innovaatiota.
+
+[Gospel Choir]
+[Chorus]
+Sindre Sorhus, koodin kuningas,
+Moduulit syntyy, voima kasvaa,
+ESM vie meidät kauas,
+Avoimen lähdekoodin valtaan.
+Sorhusin johdolla me koodataan,
+Yhteisön voima kasvaa vaan,
+Uusi aika koittaa, kun koodi virtaa,
+Yhdessä me muutetaan maailmaa.
+
+[Bridge]
+Moduulit kuin lego-palikat, ne yhdessä toimii,
+Jokainen koodi rivi, suureen linnaan liittyy.
+Yhdessä rakennamme, virheet korjautuu,
+Sindre Sorhus näyttää tietä, maailma parantuu.
+
+[Verse]
+ESM-projektissa uudet tuulet, CommonJS jää,
+Uuden ajan ohjelmoijat, innovaatioitaan täynnä.
+Pienistä paloista, suuria rakennuksia,
+Sorhusin johdolla, tulevaisuus kirkastuu.
+
+[Guitar Solo]
+
+[Big Finish]
+Sindre Sorhus johtaa tietä, koodi kirkkaana loistaa,
+Moduulien mestari, maailma uutta toistaa.
+Yhdessä me seisomme, avoimen lähdekoodin valossa,
+Nodessa ja maailmassa, Sindre on sankari suuresta tarinasta.
+
+ES-moduulit elää, koodi puhtaana virtaa,
+Innovaatio voittaa, kun yhteisö meitä kiittää.
+Sorhusin perintö, moduulit, jotka kestää,
+Tulevaisuuden sankari, avoimen koodin tähdistä.
+
+[Fade to End]

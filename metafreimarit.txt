@@ -1,0 +1,35 @@
+[Verse]
+In the world of code, there's a tale to be told,  
+Angular’s old, getting lukewarm and cold,  
+“Too complex,” they say, “dependency hell,”  
+But once it ruled, oh well, oh well.
+
+[Chorus]
+React’s the star, shining bright in the night,  
+“Virtual DOM, hooks, it’s all so right,”  
+Developers sing its praises so high,  
+With React, the limit’s the sky.
+
+[Verse]
+Solid’s sleek, with performance so fine,  
+Reactive core, it’s ahead of its time,  
+Astro’s new, with islands of code,  
+Mixing static and dynamic, it’s breaking the mold.
+
+[Bridge]
+Remix comes along, with routes to define,  
+Flexible, fast, it’s truly divine,  
+Qwik’s the name, lightning’s its game,  
+Resuming state, putting others to shame.
+
+[Chorus]
+React’s the star, shining bright in the night,  
+“Virtual DOM, hooks, it’s all so right,”  
+Developers sing its praises so high,  
+With React, the limit’s the sky.
+
+[Outro]
+Framework wars in the digital age,  
+Innovation on every page,  
+Choose your tools, build your dreams,  
+In the world of code, nothing’s as it seems.
