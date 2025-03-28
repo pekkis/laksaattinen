@@ -1,0 +1,63 @@
+[Verse 1]
+Tietokanta talo on,  
+sinne tiedot talletan.  
+Taulukot on riveissä,  
+sarakkeet siististi vierekkäin!  
+
+Kun dataa tarvitsen,  
+SQL tulee apuun sen!  
+SELECT, INSERT, UPDATE voi,  
+kaiken järjestän hetkessä, ohoi!
+
+[Verse 2]
+Normalisointi hoidetaan,  
+turhat tiedot poistetaan.  
+Yksi avain jokaiselle,  
+yhdistetään vieraille, hei!  
+
+JOIN on kaverini,  
+se kaikki tiedot yhteen liimaa niin!  
+WHERE taas auttaa rajaa vetää,  
+väärät tiedot siivilöidään etää!
+
+[Instrumental Solo]
+
+[Verse 3]
+[Rap]
+Kun data muuttuu, varo vaan,  
+transaktion käynnistää sun pitää, joo vaan!  
+BEGIN-lauseella homma käy,  
+mut jos unohdat, niin voi tulla hälyä päin!
+
+COMMIT kaikki tallentaa,  
+ROLLBACK taas voi virheet paikallaan korjaa.  
+Transaktio suojelee,  
+ettei tiedoille tulisi pipi, ei!
+
+[Bridge]
+CREATE-taulun syntymään saa,  
+ALTER sitä muokkaa vaan.  
+DROP on vaarallinen mies,  
+sen kanssa tarkkana aina pitäis!  
+
+[Verse 4]
+Kurssit, oppilaat ja opettajat,  
+kaikki tietokantaan mahtuvat.  
+SQL-kieli taikasanat on,  
+tiedot pysyvät hallinnassas' sun!  
+
+Muistathan, kun koodaat näin,  
+tiedot on turvassa, kaiken näät.  
+Opit kaiken pala kerrallaan,  
+eikä tietokanta koskaan kaaokseen jää!
+
+[Big Ending]
+Tietokannat perustaito on,  
+ilman niitä ei mitään toimi, hei vaan!  
+Kaikki koodaus tarvitsee,  
+että tiedot on tallessa selkeesti!
+
+Kun SQL:ää hallitset,  
+muukin koodaus sujuu kuin tanssien!  
+Joten opi nyt ja muista tää,  
+tietokantaosaaja maailman valloittaa!
